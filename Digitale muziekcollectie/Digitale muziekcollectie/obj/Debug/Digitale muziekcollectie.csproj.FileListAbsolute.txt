@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\bin\Debug\Digitale muziekcollectie.exe.config
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\bin\Debug\Digitale muziekcollectie.exe
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\bin\Debug\Digitale muziekcollectie.pdb
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale muziekcollectie.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale_muziekcollectie.Form1.resources
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale_muziekcollectie.Properties.Resources.resources
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale muziekcollectie.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale muziekcollectie.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale muziekcollectie.exe
+C:\Users\yassi\Desktop\Digitale muziekcollectie\Digitale muziekcollectie\obj\Debug\Digitale muziekcollectie.pdb
